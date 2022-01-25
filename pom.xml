@@ -68,12 +68,12 @@
   </build>
   <distributionManagement>
     <repository>
-         <id>1</id>
+         <id>my-app</id>
          <name>maven-releases</name>
          <url>http://ec2-54-234-52-208.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
-         <id>1</id>
+         <id>1.0-SNAPSHOT</id>
          <name>maven-releases</name>
          <url>http://ec2-54-234-52-208.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
     </snapshotRepository>
